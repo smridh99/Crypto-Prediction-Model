@@ -1,6 +1,8 @@
 # Crypto-Prediction-Model
 Machine learning model based on BigData. Created using hadoop an spark
 
+The exploratory analysis was made possible using the <a href="https://github.com/smridh99/Crypto-Prediction-Model/blob/main/btc.csv">dataset from Kaggle</a>
+
 
  A user will input their portfolio (all coins they currently have) and we will tell give them a recommendation on what they should do. For example, if they are holding BTC and ETH and our model says that in 24 hours, BTC will rise x% and ETH will rise y%, then you should ...
 
